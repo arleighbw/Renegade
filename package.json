@@ -1,0 +1,19 @@
+{
+  "name": "renegade",
+  "version": "1.0.0",
+  "description": "TBD, heatmaps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arleighbw/Renegade.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arleighbw/Renegade/issues"
+  },
+  "homepage": "https://github.com/arleighbw/Renegade#readme"
+}
